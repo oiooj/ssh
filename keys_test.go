@@ -17,7 +17,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ziyel/ssh/testdata"
+	"github.com/oiooj/ssh/testdata"
 )
 
 func rawKey(pub PublicKey) interface{} {
