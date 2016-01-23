@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 type privKey struct {

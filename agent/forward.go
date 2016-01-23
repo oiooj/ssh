@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.

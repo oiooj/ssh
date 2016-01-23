@@ -5,4 +5,4 @@
 // This package contains test data shared between the various subpackages of
 // the github.com/ziyel/ssh package. Under no circumstance should
 // this data be used for production code.
-package testdata // import "github.com/ziyel/ssh/testdata"
+package testdata // import "github.com/oiooj/ssh/testdata"

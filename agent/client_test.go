@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 // startAgent executes ssh-agent, and returns a Agent interface to it.

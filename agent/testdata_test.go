@@ -12,8 +12,8 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/ziyel/ssh"
-	"github.com/ziyel/ssh/testdata"
+	"github.com/oiooj/ssh"
+	"github.com/oiooj/ssh/testdata"
 )
 
 var (

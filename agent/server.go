@@ -12,7 +12,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 // Server wraps an Agent and uses it to implement the agent side of

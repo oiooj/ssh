@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 // Agent represents the capabilities of an ssh-agent.

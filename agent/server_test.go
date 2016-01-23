@@ -7,7 +7,7 @@ package agent
 import (
 	"testing"
 
-	"github.com/ziyel/ssh"
+	"github.com/oiooj/ssh"
 )
 
 func TestServer(t *testing.T) {
